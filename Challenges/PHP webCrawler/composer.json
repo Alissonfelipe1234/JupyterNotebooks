@@ -1,0 +1,16 @@
+{
+    "name": "alissonfelipe/teste",
+    "description": "Um pequeno teste para pefil de codigo",
+    "type": "webcrawler",
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "symfony/dom-crawler": "^5.0",
+        "symfony/css-selector": "^5.0"
+    },
+    "authors": [
+        {
+            "name": "alissonfelipe1234",
+            "email": "alissonfelipe1234@outlook.com"
+        }
+    ]
+}
